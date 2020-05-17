@@ -128,14 +128,14 @@ class App extends React.Component {
     } 
 
     
-    // Cuand el componente ha sido Montado 
+    // Cuando el componente ha sido Montado 
     componentDidMount() {
 
         // 
 
     }
 
-    // Cuand el componente ha sido Desmontado  
+    // Cuando el componente ha sido Desmontado  
     componentWillUnmount() {
 
         // 
